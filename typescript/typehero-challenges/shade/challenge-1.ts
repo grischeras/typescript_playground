@@ -2,9 +2,9 @@ export const playSong = (artistName: string, year: number) => {
   return `${artistName} was released in the year ${year}`;
 };
 
-const artistName = "Frank Zappa";
+const artistName: string = "Frank Zappa";
 
-const age = 52;
+const age: number = 52;
 
 interface Musician {
   artistName: string;
