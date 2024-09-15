@@ -3,6 +3,13 @@ Muoversi nella cartella typescript ed eseguire *npm i* per installare le dipende
 
 * * *
 
+# DOCS e articoli di supporto
+[ESEMPI DI JEST](https://medium.com/nerd-for-tech/testing-typescript-with-jest-290eaee9479d)\
+[JEST DOC](https://jestjs.io/es-ES/docs/getting-started)\
+[MARKDOWN DOC](https://markdown.es/sintaxis-markdown/#reglas)
+
+* * *
+
 # Come creare le challenge
 Nella cartella typehero-challenges create una sottocartella con il vostro nome e create il file utilizzando il formato *challenge-X.ts*
 
