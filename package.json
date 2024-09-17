@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "test": "jest",
+    "test": "jest --runInBand",
     "compile": "npx tsc"
   },
   "repository": {
