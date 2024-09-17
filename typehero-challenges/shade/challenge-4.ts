@@ -1,12 +1,12 @@
-type GroceryList = {
+export type GroceryList = {
   [item: string]: number
 };
 
-type InappropriateActionBySituation = {
+export type InappropriateActionBySituation = {
   [action: string]: string[]
 };
 
-type CharactersById = {
+export type CharactersById = {
   [index: number]: {
     [property: string]: string | number
   }
