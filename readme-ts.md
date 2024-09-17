@@ -1,5 +1,5 @@
 # Prima di inziare
-Muoversi nella cartella typescript ed eseguire *npm i* per installare le dipendenze
+Eseguire *npm i* per installare le dipendenze
 
 * * *
 
@@ -11,7 +11,7 @@ Muoversi nella cartella typescript ed eseguire *npm i* per installare le dipende
 * * *
 
 # Come creare le challenge
-Nella cartella typehero-challenges create una sottocartella con il vostro nome e create il file utilizzando il formato *challenge-X.ts*
+Nella cartella typehero-challenges create una sottocartella con il vostro nome e create il file utilizzando il formato *challenge-X.ts* dove X è il numero della challenge.
 
 #### Esempio struttura
 ![alt text](image-2.png)
