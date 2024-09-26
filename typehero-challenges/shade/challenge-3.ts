@@ -2,9 +2,9 @@ type LiteralString = 'chocolate chips';
 type LiteralTrue = true;
 type LiteralNumbers = 1 | 2 | 3 | 4 | 5 | 6;
 type LiteralObject = {
-  name: 'chocolate chips',
-  inStock: true,
-  kilograms: 5,
+  name: LiteralString,
+  inStock: LiteralTrue,
+  kilograms: LiteralNumbers,
 };
 type LiteralFunction = (a: number, b: number) => number;
 
